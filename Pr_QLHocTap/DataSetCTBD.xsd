@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetCTBD" targetNamespace="http://tempuri.org/DataSetCTBD.xsd" xmlns:mstns="http://tempuri.org/DataSetCTBD.xsd" xmlns="http://tempuri.org/DataSetCTBD.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetCTBD" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetCTBD" msprop:Generator_UserDSName="DataSetCTBD">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ChiTietBD" msprop:Generator_TableClassName="ChiTietBDDataTable" msprop:Generator_TableVarName="tableChiTietBD" msprop:Generator_TablePropName="ChiTietBD" msprop:Generator_RowDeletingName="ChiTietBDRowDeleting" msprop:Generator_RowChangingName="ChiTietBDRowChanging" msprop:Generator_RowEvHandlerName="ChiTietBDRowChangeEventHandler" msprop:Generator_RowDeletedName="ChiTietBDRowDeleted" msprop:Generator_UserTableName="ChiTietBD" msprop:Generator_RowChangedName="ChiTietBDRowChanged" msprop:Generator_RowEvArgName="ChiTietBDRowChangeEvent" msprop:Generator_RowClassName="ChiTietBDRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaHP" msprop:Generator_ColumnVarNameInTable="columnMaHP" msprop:Generator_ColumnPropNameInRow="MaHP" msprop:Generator_ColumnPropNameInTable="MaHPColumn" msprop:Generator_UserColumnName="MaHP" type="xs:string" minOccurs="0" />
+              <xs:element name="TenHP" msprop:Generator_ColumnVarNameInTable="columnTenHP" msprop:Generator_ColumnPropNameInRow="TenHP" msprop:Generator_ColumnPropNameInTable="TenHPColumn" msprop:Generator_UserColumnName="TenHP" type="xs:string" minOccurs="0" />
+              <xs:element name="SoTC" msprop:Generator_ColumnVarNameInTable="columnSoTC" msprop:Generator_ColumnPropNameInRow="SoTC" msprop:Generator_ColumnPropNameInTable="SoTCColumn" msprop:Generator_UserColumnName="SoTC" type="xs:int" minOccurs="0" />
+              <xs:element name="MaTQ" msprop:Generator_ColumnVarNameInTable="columnMaTQ" msprop:Generator_ColumnPropNameInRow="MaTQ" msprop:Generator_ColumnPropNameInTable="MaTQColumn" msprop:Generator_UserColumnName="MaTQ" type="xs:string" minOccurs="0" />
+              <xs:element name="DiemCC" msprop:Generator_ColumnVarNameInTable="columnDiemCC" msprop:Generator_ColumnPropNameInRow="DiemCC" msprop:Generator_ColumnPropNameInTable="DiemCCColumn" msprop:Generator_UserColumnName="DiemCC" type="xs:double" minOccurs="0" />
+              <xs:element name="DiemGK" msprop:Generator_ColumnVarNameInTable="columnDiemGK" msprop:Generator_ColumnPropNameInRow="DiemGK" msprop:Generator_ColumnPropNameInTable="DiemGKColumn" msprop:Generator_UserColumnName="DiemGK" type="xs:double" minOccurs="0" />
+              <xs:element name="DiemCK" msprop:Generator_ColumnVarNameInTable="columnDiemCK" msprop:Generator_ColumnPropNameInRow="DiemCK" msprop:Generator_ColumnPropNameInTable="DiemCKColumn" msprop:Generator_UserColumnName="DiemCK" type="xs:double" minOccurs="0" />
+              <xs:element name="DiemHe10" msprop:Generator_ColumnVarNameInTable="columnDiemHe10" msprop:Generator_ColumnPropNameInRow="DiemHe10" msprop:Generator_ColumnPropNameInTable="DiemHe10Column" msprop:Generator_UserColumnName="DiemHe10" type="xs:double" minOccurs="0" />
+              <xs:element name="DiemHe4" msprop:Generator_ColumnVarNameInTable="columnDiemHe4" msprop:Generator_ColumnPropNameInRow="DiemHe4" msprop:Generator_ColumnPropNameInTable="DiemHe4Column" msprop:Generator_UserColumnName="DiemHe4" type="xs:double" minOccurs="0" />
+              <xs:element name="DiemChu" msprop:Generator_ColumnVarNameInTable="columnDiemChu" msprop:Generator_ColumnPropNameInRow="DiemChu" msprop:Generator_ColumnPropNameInTable="DiemChuColumn" msprop:Generator_UserColumnName="DiemChu" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

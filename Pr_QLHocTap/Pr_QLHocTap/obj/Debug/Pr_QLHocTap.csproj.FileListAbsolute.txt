@@ -1,0 +1,199 @@
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Pr_QLHocTap.exe.config
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Pr_QLHocTap.exe
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Pr_QLHocTap.pdb
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\EnvDTE.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\stdole.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\EnvDTE80.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\VSLangProj.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\VSLangProj80.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.MSXML.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\VSLangProj2.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.csprojResolveAssemblyReference.cache
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.csproj.Pr_QLHocTap.exe.config
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmDang_Nhap.resources
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmInAn.resources
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmInAnChiTietBD.resources
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmInAnHP.resources
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmMain.resources
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmQuanLyTaiKhoan.resources
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmXemChiTietBD.resources
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.Properties.Resources.resources
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.csproj.GenerateResource.Cache
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.csproj.CoreCompileInputs.cache
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.exe
+C:\Users\blues\OneDrive\Tài Liệu\Phần mềm\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.pdb
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Pr_QLHocTap.exe.config
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Pr_QLHocTap.exe
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Pr_QLHocTap.pdb
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\EnvDTE.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\stdole.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\Microsoft.MSXML.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.csprojResolveAssemblyReference.cache
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmDang_Nhap.resources
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmInAn.resources
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmInAnChiTietBD.resources
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmInAnHP.resources
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmMain.resources
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmQuanLyTaiKhoan.resources
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.frmXemChiTietBD.resources
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.Properties.Resources.resources
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.csproj.GenerateResource.Cache
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.csproj.CoreCompileInputs.cache
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.exe
+E:\CNTT_HVQLGD\Năm 3\Thực tập cơ sở\Phần mềm_hoàn chỉnh-Báo cáo\Pr_QLHocTap\Pr_QLHocTap\Pr_QLHocTap\obj\Debug\Pr_QLHocTap.pdb
